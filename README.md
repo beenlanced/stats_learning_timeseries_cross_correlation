@@ -1,14 +1,14 @@
-# Time Serie sCorrelations A Tutorial
+# Time Series Correlations A Tutorial
 
 This repository contains code examples, image files, IJulia notebooks and other general materials related
 to explaining the use of autocorrelation and cross-correlation analysis with time series.<br>
 
 ## This work was inspired by the good folks at:
 
-*[Anomaly.io](https://anomaly.io/index.html) - Blog
-*[Anomaly.io-post1](https://anomaly.io/detect-anomalies-in-correlated-time-series/index.html) - Anomaly Detection and Correlation
-*[Anomaly.io-post2](https://anomaly.io/understand-auto-cross-correlation-normalized-shift/index.html#/cross_correlation) - Understanding Auto and Cross Correlations
-*[Anomaly.io-post3](https://anomaly.io/detect-correlation-time-series/index.html) - Correlations in time series
+* [Anomaly.io](https://anomaly.io/index.html) - Blog
+* [Anomaly.io-post1](https://anomaly.io/detect-anomalies-in-correlated-time-series/index.html) - Anomaly Detection and Correlation
+* [Anomaly.io-post2](https://anomaly.io/understand-auto-cross-correlation-normalized-shift/index.html#/cross_correlation) - Understanding Auto and Cross Correlations
+* [Anomaly.io-post3](https://anomaly.io/detect-correlation-time-series/index.html) - Correlations in time series
 
 
 Good luck and hope the material can be of instructional use. <br>
