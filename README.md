@@ -1,9 +1,9 @@
-# TimeSeriesCorrelations: Explanation
+# Time Serie sCorrelations A Tutorial
 
 This repository contains code examples, image files, IJulia notebooks and other general materials related
 to explaining the use of autocorrelation and cross-correlation analysis with time series.<br>
 
-This work was inspired by the good folks at:
+## This work was inspired by the good folks at:
 
 *[Anomaly.io](https://anomaly.io/index.html) - Blog
 *[Anomaly.io-post1](https://anomaly.io/detect-anomalies-in-correlated-time-series/index.html) - Anomaly Detection and Correlation
